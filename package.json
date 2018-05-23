@@ -1,0 +1,22 @@
+{
+  "name": "romannumerals",
+  "version": "1.0.0",
+  "description": "TDD Kata - Roman numerals",
+  "main": "spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mluena/romanNumerals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mluena/romanNumerals/issues"
+  },
+  "homepage": "https://github.com/mluena/romanNumerals#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
